@@ -8,8 +8,6 @@ Thirdly, cd into the frontend directory and run the command npm start to see the
 
 I also learnt abit of redux to make this more efficient which I learnt online.
 
-Unfortunately the app is slow so give it time to load.
-
 Backend App dependencies:
 JWT decode.
 Express.
