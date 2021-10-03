@@ -1,7 +1,5 @@
 This is a todo list application with JWT authentication.
 
-Some of this code was taken from a Youtube source.
-
 Firstly, cd into frontend directory and use command npm install to recieve all dependencies.
 
 Secondly,  cd into backend directory and use command npm install to install all the dependencies for the backend.
